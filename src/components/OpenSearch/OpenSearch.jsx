@@ -61,7 +61,7 @@ export const OpenSearch = () => {
         onChange={handleChange}
         isSearchable
         components={{ LoadingMessage: LoadingIndicator }}
-        placeholder="חפש ובחר אקדמיה...."
+        placeholder="חפש ובחר בית מדרש...."
       />
     </div>
   );
